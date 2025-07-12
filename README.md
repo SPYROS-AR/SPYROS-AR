@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate student at Harokopio University
+Undergraduate student at Harokopio University of Athens
 
 
 # 💻 Tech Stack:
