@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Undergraduate student at Harokopio University of Athens
 
 
