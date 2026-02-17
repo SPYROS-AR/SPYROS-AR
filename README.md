@@ -4,6 +4,7 @@ Undergraduate student at Harokopio University of Athens
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,py,java,maven,bash,linux,docker,git,github,neovim,postgres)](https://skillicons.dev)
 
 ---
